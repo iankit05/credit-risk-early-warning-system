@@ -181,8 +181,7 @@ All SQL scripts are organized in the `/sql` folder:
 ## Author
 
 **Ankit Shrivas**  
-Data Analyst | SQL · Snowflake · Python · Tableau  
-[LinkedIn](https://linkedin.com/in/ankitshrivas) | 
+Data Analyst | SQL · Snowflake · Python · Tableau   
 [Tableau Public](https://public.tableau.com/app/profile/ankit.shrivas) | 
 [GitHub](https://github.com/iankit05)
 
